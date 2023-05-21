@@ -29,6 +29,7 @@ Throughout my research journey, I have contributed to several peer-reviewed publ
 - "Quantum Computing Algorithms for Portfolio Optimization",  International Conference on Quantum Computing (ICQC), 2023 📚🔬
 - "Enhancing Speech Recognition Accuracy with Deep Neural Networks and Transfer Learning", IEEE Transactions on Audio, Speech, and Language Processing, 2021 📚🔬
 - "Exploring the Application of Generative Adversarial Networks for Artistic Style Transfer", International Conference on Computer Vision and Pattern Recognition (CVPR), 2022 📚🔬
+
 For a complete list of my publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=askfauewba) profile. 📑🔍
 
 ## Contact Information
